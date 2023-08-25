@@ -7,7 +7,7 @@ void setup()
 }
 void draw()
 {
-scale(0.8);
+scale(1);
 fill(193,154,107);
 
 //mane
